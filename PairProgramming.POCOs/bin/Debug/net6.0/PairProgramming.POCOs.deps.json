@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PairProgramming.POCOs/1.0.0": {
+        "runtime": {
+          "PairProgramming.POCOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PairProgramming.POCOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

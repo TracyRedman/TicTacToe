@@ -1,0 +1,15 @@
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/bin/Debug/net6.0/PairProgamming.UI
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/bin/Debug/net6.0/PairProgamming.UI.deps.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/bin/Debug/net6.0/PairProgamming.UI.runtimeconfig.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/bin/Debug/net6.0/PairProgamming.UI.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/bin/Debug/net6.0/ref/PairProgamming.UI.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/bin/Debug/net6.0/PairProgamming.UI.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/obj/Debug/net6.0/PairProgamming.UI.csproj.AssemblyReference.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/obj/Debug/net6.0/PairProgamming.UI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/obj/Debug/net6.0/PairProgamming.UI.AssemblyInfoInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/obj/Debug/net6.0/PairProgamming.UI.AssemblyInfo.cs
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/obj/Debug/net6.0/PairProgamming.UI.csproj.CoreCompileInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/obj/Debug/net6.0/PairProgamming.UI.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/obj/Debug/net6.0/ref/PairProgamming.UI.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/obj/Debug/net6.0/PairProgamming.UI.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgamming.UI/obj/Debug/net6.0/PairProgamming.UI.genruntimeconfig.cache

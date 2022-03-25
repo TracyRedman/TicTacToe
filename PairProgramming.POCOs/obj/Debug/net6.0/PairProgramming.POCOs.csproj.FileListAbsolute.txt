@@ -1,0 +1,12 @@
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/bin/Debug/net6.0/PairProgramming.POCOs.deps.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/bin/Debug/net6.0/PairProgramming.POCOs.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/bin/Debug/net6.0/ref/PairProgramming.POCOs.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/bin/Debug/net6.0/PairProgramming.POCOs.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/obj/Debug/net6.0/PairProgramming.POCOs.csproj.AssemblyReference.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/obj/Debug/net6.0/PairProgramming.POCOs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/obj/Debug/net6.0/PairProgramming.POCOs.AssemblyInfoInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/obj/Debug/net6.0/PairProgramming.POCOs.AssemblyInfo.cs
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/obj/Debug/net6.0/PairProgramming.POCOs.csproj.CoreCompileInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/obj/Debug/net6.0/PairProgramming.POCOs.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/obj/Debug/net6.0/ref/PairProgramming.POCOs.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/PairProgramming.POCOs/obj/Debug/net6.0/PairProgramming.POCOs.pdb
