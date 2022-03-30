@@ -1,0 +1,15 @@
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/obj/Debug/net6.0/TicTacToe_UI.csproj.AssemblyReference.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/obj/Debug/net6.0/TicTacToe_UI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/obj/Debug/net6.0/TicTacToe_UI.AssemblyInfoInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/obj/Debug/net6.0/TicTacToe_UI.AssemblyInfo.cs
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/obj/Debug/net6.0/TicTacToe_UI.csproj.CoreCompileInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/bin/Debug/net6.0/TicTacToe_UI
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/bin/Debug/net6.0/TicTacToe_UI.deps.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/bin/Debug/net6.0/TicTacToe_UI.runtimeconfig.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/bin/Debug/net6.0/TicTacToe_UI.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/bin/Debug/net6.0/ref/TicTacToe_UI.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/bin/Debug/net6.0/TicTacToe_UI.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/obj/Debug/net6.0/TicTacToe_UI.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/obj/Debug/net6.0/ref/TicTacToe_UI.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/obj/Debug/net6.0/TicTacToe_UI.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/PairProgramming/src/TicTacToe_UI/obj/Debug/net6.0/TicTacToe_UI.genruntimeconfig.cache
